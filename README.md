@@ -36,3 +36,14 @@ Aplikasi pergudangan adalah sistem yang digunakan untuk mengelola berbagai aktiv
 ## Flowchart untuk Sistem
 ![ALT TEXT](https://github.com/alkhamil/pergudangan_api/blob/main/public/images/pergudangan.drawio.png?raw=true)
 
+## System Requirement
+- PHP 7.4
+- Mysql 8.4
+
+## Cara Install
+- clone project
+- jalankan "composer install"
+- setup .env copy dari .env-example
+- jalankan "php artisan migrate"
+- jalankan "php artisan serve"
+
