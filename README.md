@@ -3,7 +3,7 @@
 Aplikasi pergudangan adalah sistem yang digunakan untuk mengelola berbagai aktivitas yang terkait dengan penyimpanan dan distribusi barang di dalam gudang. Sistem ini bertujuan untuk mengoptimalkan operasional gudang, termasuk penerimaan, penyimpanan, dan pengeluaran barang, serta pelacakan stok secara real-time. Berikut adalah komponen utama dari aplikasi pergudangan:
 
 
-## DRAFT MENU
+## Draft Menu
 - Dashboard
     - Ringkasan stok, permintaan terbaru, dan status transaksi.
 - Master Data
@@ -25,10 +25,11 @@ Aplikasi pergudangan adalah sistem yang digunakan untuk mengelola berbagai aktiv
     - Lihat Pengajuan
         - Daftar pengajuan pembelian dan statusnya.
 - Laporan
-    Laporan Stok
-    Laporan stok barang di gudang.
-    Laporan Transaksi
-    Laporan transaksi pengiriman barang ke proyek.
+    - Laporan Stok
+    - Laporan stok barang di gudang.
+    - Laporan Transaksi
+    - Laporan transaksi pengiriman barang ke proyek.
 
 ## Draft Design ERD (Entity Relationship Diagram)
+![ALT TEXT](https://github.com/alkhamil/pergudangan_api/blob/main/public/images/erd.jpeg?raw=true)
 
