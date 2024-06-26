@@ -31,10 +31,10 @@ Aplikasi pergudangan adalah sistem yang digunakan untuk mengelola berbagai aktiv
     - Laporan transaksi pengiriman barang ke proyek.
 
 ## Draft Design ERD (Entity Relationship Diagram)
-![ALT TEXT](https://github.com/alkhamil/pergudangan_api/blob/main/public/images/erd.jpeg?raw=true)
+![ALT TEXT](https://github.com/alkhamil/pergudangan_api/blob/main/public/docs/erd.jpeg?raw=true)
 
 ## Flowchart untuk Sistem
-![ALT TEXT](https://github.com/alkhamil/pergudangan_api/blob/main/public/images/pergudangan.drawio.png?raw=true)
+![ALT TEXT](https://github.com/alkhamil/pergudangan_api/blob/main/public/docs/pergudangan.drawio.png?raw=true)
 
 ## System Requirement
 - PHP 7.4
@@ -46,4 +46,7 @@ Aplikasi pergudangan adalah sistem yang digunakan untuk mengelola berbagai aktiv
 - setup .env copy dari .env-example
 - jalankan "php artisan migrate"
 - jalankan "php artisan serve"
+
+## Collection Postman
+[link](https://github.com/alkhamil/pergudangan_api/blob/main/public/docs/collection_api.json)
 
