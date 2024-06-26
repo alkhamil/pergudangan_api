@@ -33,3 +33,6 @@ Aplikasi pergudangan adalah sistem yang digunakan untuk mengelola berbagai aktiv
 ## Draft Design ERD (Entity Relationship Diagram)
 ![ALT TEXT](https://github.com/alkhamil/pergudangan_api/blob/main/public/images/erd.jpeg?raw=true)
 
+## Flowchart untuk Sistem
+![ALT TEXT](https://github.com/alkhamil/pergudangan_api/blob/main/public/images/pergudangan.drawio.png?raw=true)
+
